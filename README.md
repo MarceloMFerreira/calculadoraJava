@@ -1,2 +1,2 @@
-# Projeto Calculadora em Java
+# Projeto Calculadora em Java 
 Este projeto é um aplicativo de calculadora para dispositivos Android. Ele foi desenvolvido em Java e usa a biblioteca exp4j para avaliar expressões matemáticas. A interface do usuário é composta por botões numéricos e de operações, bem como por um visor para exibir a expressão atual e o resultado. O usuário pode inserir expressões matemáticas usando os botões e, em seguida, avaliá-las pressionando o botão "=" para ver o resultado. Além disso, há botões para redefinir a expressão atual, excluir caracteres e calcular o resto da divisão.
